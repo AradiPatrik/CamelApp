@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CamelApp</string>
+    <string name="display_text">I am here</string>
+</resources>
